@@ -1,5 +1,5 @@
 # -
-基于Python编写的抖音自动化抢福袋，抢红包助手，已内置代理池，欢迎测试QQ1038097633
+基于Python编写的抖音自动化抢福袋，抢红包助手，已内置代理池，使用内置谷歌浏览器，欢迎测试QQ1038097633
 <img width="649" height="993" alt="屏幕截图 2026-02-04 163834" src="https://github.com/user-attachments/assets/33d1ef39-df52-4ae8-90b5-c1d2cd35a100" />
 <img width="1776" height="1011" alt="屏幕截图 2026-02-04 163924" src="https://github.com/user-attachments/assets/523b5322-09f1-464c-a34c-8452b2bdce9c" />
 <img width="2531" height="1293" alt="屏幕截图 2026-02-04 164005" src="https://github.com/user-attachments/assets/345c3fa1-22a6-48d5-86e1-051754837462" />
