@@ -1,7 +1,9 @@
 # -
-基于Python编写的抖音自动化抢福袋，抢红包助手，已内置代理池，使用内置谷歌浏览器，欢迎测试QQ1038097633
-<img width="649" height="993" alt="屏幕截图 2026-02-04 163834" src="https://github.com/user-attachments/assets/33d1ef39-df52-4ae8-90b5-c1d2cd35a100" />
-<img width="1776" height="1011" alt="屏幕截图 2026-02-04 163924" src="https://github.com/user-attachments/assets/523b5322-09f1-464c-a34c-8452b2bdce9c" />
-<img width="2531" height="1293" alt="屏幕截图 2026-02-04 164005" src="https://github.com/user-attachments/assets/345c3fa1-22a6-48d5-86e1-051754837462" />
-<img width="2544" height="1295" alt="屏幕截图 2026-02-04 164049" src="https://github.com/user-attachments/assets/126e15d0-8f9e-4e3b-a03a-409b3694ec94" />
-<img width="2542" height="1293" alt="屏幕截图 2026-02-04 164105" src="https://github.com/user-attachments/assets/f7856ed1-9686-49a2-84f8-607700b5a389" />
+基于Python编写的抖音自动化抢福袋，抢红包助手，已内置代理池，支持比特，欢迎测试QQ1038097633
+
+<img width="2529" height="904" alt="屏幕截图 2026-02-11 192052" src="https://github.com/user-attachments/assets/5160e729-22ee-427c-ad57-c69f199c9774" />
+<img width="1000" height="895" alt="屏幕截图 2026-02-11 075239" src="https://github.com/user-attachments/assets/bee3909f-8cd8-464b-ace1-69ce3bb8eef8" />
+<img width="997" height="993" alt="屏幕截图 2026-02-11 075313" src="https://github.com/user-attachments/assets/2953f0c0-432d-4192-90f3-34af0935b637" />
+<img width="883" height="654" alt="屏幕截图 2026-02-11 083102" src="https://github.com/user-attachments/assets/53bb54a2-c471-4066-a63a-94b8df34267d" />
+<img width="997" height="662" alt="屏幕截图 2026-02-11 075204" src="https://github.com/user-attachments/assets/c1439021-6393-473f-8d70-defbd713c87d" />
+<img width="1086" height="708" alt="屏幕截图 2026-02-11 074948" src="https://github.com/user-attachments/assets/082aecc4-1df7-442e-be03-af90aded8a23" />
